@@ -1,0 +1,26 @@
+characters = {
+#Create country leader - Eberhard Louis
+eberhard_louis = {
+	name = eberhard_louis
+	portraits = {
+		civilian = {
+			#Custom image for Eberhard Louis
+			large = "/gfx/leaders/WUR/eberhard_louis.dds"
+		}
+	}
+	country_leader = {
+		expire = "1733.10.31"
+		ideology = despotism
+		desc = EBERHARD_LOUIS_DESC_desc
+		traits = {  }
+	}
+	field_marshal = {
+            traits = {}
+            skill = 4
+            attack_skill = 4
+            defense_skill = 3
+            planning_skill = 4
+            logistics_skill = 2
+        }
+	}
+}

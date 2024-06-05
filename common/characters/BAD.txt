@@ -1,0 +1,49 @@
+characters = {
+#Create country leader - Louis William
+louis_william = {
+	name = louis_william
+	portraits = {
+		civilian = {
+			#Custom image for Louis William
+			large = "/gfx/leaders/BAD/louis_william.dds"
+		}
+	}
+	country_leader = {
+		expire = "1707.1.4"
+		ideology = despotism
+		traits = {  }
+	}
+	field_marshal = {
+            traits = {}
+            skill = 4
+            attack_skill = 4
+            defense_skill = 3
+            planning_skill = 4
+            logistics_skill = 2
+        }
+	}
+
+#Create country leader - Louis George
+louis_george = {
+	name = louis_george
+	portraits = {
+		civilian = {
+			#Custom image for Louis George
+			large = "/gfx/leaders/BAD/louis_george.dds"
+		}
+	}
+	country_leader = {
+		expire = "1761.10.22"
+		ideology = despotism
+		traits = {  }
+	}
+	field_marshal = {
+            traits = {}
+            skill = 4
+            attack_skill = 4
+            defense_skill = 3
+            planning_skill = 4
+            logistics_skill = 2
+        }
+	}
+}

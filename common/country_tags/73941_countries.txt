@@ -1,0 +1,2 @@
+WUR = "countries/Württemberg.txt"
+BAD = "countries/Baden.txt"
